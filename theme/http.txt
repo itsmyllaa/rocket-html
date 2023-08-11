@@ -7,13 +7,36 @@ Visão geral
 - HTML, CSS, Scripts, Imagens, Video.
 - Uma chamada para cada um desses recursos 
 * Conceitos
-
+- Cliente 
+- Servidor
+- Proxies
 * URI
-
+- Resources
+- Recursos 
+- URL
+- URN
+- Revisão resource
 * Messages
-
+- Mensagens
+- Request
+- Response
 * Methods 
-
+- Methods 
+- JSON Server
+- OPTIONS
+- GET
+- HEAD
+- POST
+- PUT
+- PATCH
+- DELETE
 * Headers
-
+- O que são headers 
+- Entendendo pelo contexto
+- General
+- Request
+- Response
+- Obtendo ajuda
 * Status
+- Status code mais comuns
+- Buscando mais informações
