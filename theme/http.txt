@@ -1,0 +1,19 @@
+* Hypertext Transfer Protocol
+Protocolo de transferência de hypertexto
+
+Visão geral
+- Permite troca de informações e dados na internet 
+- Uma troca de mensagens 
+- HTML, CSS, Scripts, Imagens, Video.
+- Uma chamada para cada um desses recursos 
+* Conceitos
+
+* URI
+
+* Messages
+
+* Methods 
+
+* Headers
+
+* Status
