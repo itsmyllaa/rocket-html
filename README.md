@@ -11,3 +11,8 @@ O módulo trás uma introdução à programação com conceituações como algor
 
 ![Captura de Tela 2023-08-11 às 16 47 50](https://github.com/itsmyllaa/rocket-html/assets/60410635/71096157-63ec-45a0-9803-330c916ee292)
 
+![Captura de Tela 2023-08-11 às 16 48 58](https://github.com/itsmyllaa/rocket-html/assets/60410635/e1ad1fcc-a774-4844-ac2d-020b6b03be50)
+
+![Captura de Tela 2023-08-11 às 17 01 14](https://github.com/itsmyllaa/rocket-html/assets/60410635/8420904e-9b10-4370-9c20-d78d397e4017)
+
+![Captura de Tela 2023-08-11 às 17 04 28](https://github.com/itsmyllaa/rocket-html/assets/60410635/5f065b42-3f70-467c-9de8-7eb2a7e5b8f0)
